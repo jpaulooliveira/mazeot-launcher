@@ -1,0 +1,42 @@
+[
+  {
+    "Title": "Tournament Announcement",
+    "Content": "Join our monthly tournament starting next week! Great prizes await the winners. Check the Discord for more details.",
+    "PublishDate": "2024-01-14T15:30:00Z",
+    "Category": "Event",
+    "Icon": "🏆",
+    "ImageUrl": "https://mazeot.online/images/custom/deathzone/sanguine.gif",
+    "HasImage": true,
+    "DisplayOrder": 1
+  },
+  {
+    "Title": "New Character Classes Available",
+    "Content": "Three new character classes have been added to the game! Try out the Mage, Warrior, and Archer with unique abilities.",
+    "PublishDate": "2024-01-10T12:00:00Z",
+    "Category": "Feature",
+    "Icon": "⚔️",
+    "ImageUrl": "https://mazeot.online/images/custom/deathzone/fishing.png",
+    "HasImage": true,
+    "DisplayOrder": 2
+  },
+  {
+    "Title": "Community Event This Weekend",
+    "Content": "Join us for a special weekend event with double XP, rare item drops, and exclusive rewards!",
+    "PublishDate": "2024-01-08T18:00:00Z",
+    "Category": "Event",
+    "Icon": "🎉",
+    "ImageUrl": "https://mazeot.online/images/custom/deathzone/isle2.png",
+    "HasImage": true,
+    "DisplayOrder": 3
+  },
+  {
+    "Title": "Community Two",
+    "Content": "Join us for a special weekend event with double XP, rare item drops, and exclusive rewards!",
+    "PublishDate": "2024-01-08T18:00:00Z",
+    "Category": "Event",
+    "Icon": "🎉",
+    "ImageUrl": "https://mazeot.online/images/custom/deathzone/isle1.png",
+    "HasImage": true,
+    "DisplayOrder": 4
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "Version": "1.3.8",
+  "GameName": "Maze OT",
+  "AutoCheckUpdates": true,
+  "UpdateIntervalHours": 24,
+  "LaunchOptions": "Normal",
+  "DownloadLocation": "",
+  "DownloadSpeed": "No limit",
+  "ResumeDownloads": true,
+  "Theme": "Dark",
+  "BackgroundOpacity": 0.3,
+  "ShowNotifications": true,
+  "DiscordUrl": "https://discord.gg/up45WeAJVV",
+  "InstagramUrl": "https://www.instagram.com/maze_ot/",
+  "WhatsAppUrl": "https://chat.whatsapp.com/CHplqFxy45Z9IE2WHz3Bir",
+  "YouTubeUrl": "https://www.youtube.com/@MazeServers",
+  "TwitterUrl": "https://twitter.com/yourhandle"
+}
